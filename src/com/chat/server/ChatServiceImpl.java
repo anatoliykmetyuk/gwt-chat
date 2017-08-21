@@ -4,9 +4,6 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
 
-import com.chat.client.Message;
-import com.chat.client.ChatModel;
-
 import com.chat.client.ChatService;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
