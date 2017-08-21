@@ -1,0 +1,1 @@
+Simple chat with GWT. Run `ant devmode` to try it out.
